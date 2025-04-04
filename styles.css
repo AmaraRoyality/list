@@ -1,11 +1,11 @@
-/* Basic Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Body Styles */
+  
   body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -15,7 +15,7 @@
     background-color: #f4f4f4;
   }
   
-  /* Todo Container */
+  
   .todo-container {
     background-color: #fff;
     border-radius: 8px;
@@ -24,14 +24,14 @@
     width: 300px;
   }
   
-  /* Title */
+
   h1 {
     text-align: center;
     color: #333;
     margin-bottom: 20px;
   }
   
-  /* Input and Button */
+  
   #taskInput {
     width: 80%;
     padding: 10px;
